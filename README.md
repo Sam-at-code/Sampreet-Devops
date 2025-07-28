@@ -180,5 +180,5 @@ _(You can paste images using GitHub markdown or links.)_
 
 ## 📬 Contact
 
-**Made with 💻 by 23bcsc69_umesh**
-Drop a mail: `cse.23bcsc69@silicon.ac.in`
+**Made with 💻 by 23bece35_sampreet**
+Drop a mail: `ece.23bece35@silicon.ac.in`
